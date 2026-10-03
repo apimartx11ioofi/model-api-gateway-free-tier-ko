@@ -2,7 +2,7 @@
 
 > **One OpenAI-compatible key, 300+ models** · image2.5 **$0.0085/image** · Seedance 2.0 Mini **$0.01056/sec** · LLM from **$0.0228 / M tokens** · $1 minimum top-up.
 
-**[요금 보기](https://go.apimart.ai/k-e0ff74)** · **[API 키 발급](https://go.apimart.ai/k-4a99be)**
+**[요금 보기](https://go.apimart.ai/k-3eef42)** · **[API 키 발급](https://go.apimart.ai/k-4a99be)**
 
 model-api-gateway-free-tier-ko 는 하나의 `base_url` 과 하나의 키로 300+ 모델을 연결합니다. USD 결제, 종량 과금, 최소 $1 충전.
 
